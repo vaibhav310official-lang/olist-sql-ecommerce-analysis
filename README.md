@@ -45,7 +45,6 @@ olist-sql-ecommerce-analysis
 │   ├── 03_advanced_analysis.sql
 │
 └── README.md
-```
 
 ---
 
@@ -191,3 +190,4 @@ Vaibhav Singh
 Data Analytics Project
 
 ---
+
