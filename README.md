@@ -10,6 +10,28 @@ The dataset contains transactional data for an online marketplace operating acro
 
 ---
 
+## Key Insights
+
+• Total delivered orders: 96,478  
+• Total revenue generated: 13.22M  
+• Average order value: 137  
+
+Customer Behavior:
+• Only 3% of customers make repeat purchases
+• Repeat customers contribute 5.51% of total revenue
+
+Product Performance:
+• Health & Beauty is the highest revenue category
+• Watches & Gifts generates high revenue with lower sales volume
+
+Geographic Insights:
+• São Paulo contributes approximately 38% of total marketplace revenue
+• Major metropolitan areas dominate ecommerce demand
+
+Logistics:
+• Average delivery time is 12.5 days
+
+---
 ## Dataset
 
 Source: Olist Brazilian E-commerce Public Dataset (Kaggle)
@@ -175,12 +197,29 @@ Improving delivery speed could enhance customer satisfaction and encourage repea
 
 ---
 
-## Key Business Insights
+## Business Recommendations
 
-* Revenue is distributed across multiple product categories rather than relying on a single category
-* The marketplace experiences strong demand in urban areas and economically developed regions
-* Customer retention is relatively low, suggesting an opportunity to improve repeat purchases
-* Logistics efficiency plays an important role in customer experience and long-term growth
+Based on the analysis, several opportunities for improvement exist:
+
+1. Improve Customer Retention
+   With only 3% repeat customers, introducing loyalty programs,
+   targeted promotions, and personalized recommendations could
+   significantly increase long-term revenue.
+
+2. Focus on High-Performing Categories
+   Categories such as Health & Beauty and Bed/Bath/Table show strong
+   demand and could be prioritized for marketing campaigns and
+   product expansion.
+
+3. Expand in High-Revenue Regions
+   São Paulo and other Southeast states represent the largest markets.
+   Strengthening logistics and seller networks in these regions could
+   further increase marketplace growth.
+
+4. Optimize Delivery Times
+   The average delivery time of 12.5 days suggests potential for
+   logistics improvements, which could improve customer satisfaction
+   and repeat purchase rates.
 
 ---
 
@@ -190,4 +229,5 @@ Vaibhav Singh
 Data Analytics Project
 
 ---
+
 
